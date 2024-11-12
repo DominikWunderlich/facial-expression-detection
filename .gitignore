@@ -1,0 +1,11 @@
+# Ignore the virtual environment folder
+venv/
+env/
+
+# Ignore data folder
+Data/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
